@@ -1,0 +1,12 @@
+var first_name = "Anish";
+var last_name = "Agarwal";
+var x = 5;
+var b = 10;
+var c = 15;
+var f = 20;
+var add_name = first_name + last_name;
+console.log(add_name);
+var add_number = x + b;
+var add_number_2 = c + f;
+console.log(add_number);
+console.log(add_number_2);
